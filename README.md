@@ -1,4 +1,6 @@
-# webpack-simple
+# webpack-vue-cli-template
+
+> Custom vue-cli template, forked from [vuejs-templates/webpack-simple](https://github.com/vuejs-templates/webpack-simple)
 
 > A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to use the [full webpack template](https://github.com/vuejs-templates/webpack).
 
@@ -10,7 +12,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init webpack-simple my-project
+$ vue init idmytro/webpack-vue-cli-template my-project
 $ cd my-project
 $ npm install
 $ npm run dev
